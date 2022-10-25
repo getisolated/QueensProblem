@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666642206 source:e:\l3 miage\c++\reines\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<sstream>
+	<cstring>
+	<map>
+	<list>
+	<queue>
+	<ctime>
+
